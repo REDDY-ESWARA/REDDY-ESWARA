@@ -5,7 +5,7 @@ I’m an aspiring **DevOps Engineer** with hands-on experience in cloud infrastr
 ## 🚀 What I Do
 
 - Build and maintain **CI/CD pipelines** for automated deployments.
-- Automate infrastructure using tools like **Terraform** and **Ansible**.
+- Automate infrastructure using tools like **Ansible**.
 - Work with **Docker** and **Kubernetes** for containerization and orchestration.
 - Deploy applications in **AWS**  environment.
 
@@ -21,6 +21,7 @@ I’m an aspiring **DevOps Engineer** with hands-on experience in cloud infrastr
 ## 🌱 Currently Learning
 
 - **Kubernetes** (Advanced)
+- **Terraform** (Infrastructure as a code)
 - **Serverless** (AWS Lambda)
 - **DevSecOps** (Security Automation)
 - **Prometheus** and **Grafana**.(Monitor and analyze system)
