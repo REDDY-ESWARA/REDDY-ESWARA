@@ -29,4 +29,4 @@ I’m an aspiring **DevOps Engineer** with hands-on experience in cloud infrastr
 
 Feel free to reach out to me here or on LinkedIn:
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/reddyeswararangani242004/))
+- [LinkedIn]([https://www.linkedin.com/in/reddyeswararangani242004/])
